@@ -7,6 +7,7 @@ MongoDB
 
   
 #### Bree.js  
+The app uses Bree to schedule birthday notification emails. Bree is a job scheduler for Node.js that uses worker threads instead of the main thread.   
 
 #### body-parser  
 
